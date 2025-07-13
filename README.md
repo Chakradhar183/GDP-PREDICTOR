@@ -2,6 +2,8 @@
 
 A machine learning-powered web application that predicts **GDP per capita** based on various socio-economic and geographic inputs.
 
+Project link: https://gdp-predictor-v0xf.onrender.com/
+
 ## 🚀 Features
 - Clean, minimalistic UI with responsive design
 - Prediction powered by a trained **Random Forest Regressor**
